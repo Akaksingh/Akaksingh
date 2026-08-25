@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./assets/avatar.png" width="190" alt="Akaksha Singh">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akaksingh/Akaksingh/main/assets/avatar.png" width="190" alt="Akaksha Singh">
+</p>
+
 
 # Hi, I'm Akaksha Singh
 
